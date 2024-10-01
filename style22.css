@@ -3,7 +3,7 @@ body{
     padding: 0;
 }
 .nav{
-    width: Fill (1,440px)px;
+    width: 69rem;
 height: Hug (88px)px;
 padding: 16px 160px 16px 260px;
 gap: 0px;
@@ -1107,7 +1107,7 @@ margin-top:0;
 @media (max-width:575px){
 
     .nav{
-        width: Fixed (375px)px;
+        width: 2rem;
 height: Hug (88px)px;
 padding: 24px 16px 24px 16px;
 gap: 0px;
