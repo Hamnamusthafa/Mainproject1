@@ -2,6 +2,7 @@ body{
     margin: 0;
     padding: 0;
 }
+
 .nav{
     width: Fill (1,440px)px;
 height: Hug (88px)px;
@@ -1104,10 +1105,117 @@ margin-top:0;
 .burger{
     visibility: hidden;
 }
+.bar_good{
+
+}
+.joining{
+    display: flex;
+}
 @media (max-width:575px){
 
-    .nav{
+.final1{
+    height: 93rem;
+    width: 29.9rem;
+    margin-left: -9rem;
+}
+    .paraa{
+        height:5 0px;
+        width: 30rem;
+    }
+    .just{
+        width: 30rem;
+
+    }
+    .scene{
         width: 2rem;
+        margin-left: -30rem;
+
+    }
+    .onnn{
+        gap: 29rem;
+    }
+    .sscreen{
+        margin-left: -1rem;
+    }
+    .sscreen4{
+        margin-left: -2rem;
+    }
+    .sscreen5{
+        margin-left: -2rem;
+    }
+    .sscreen2{
+        margin-left: -4rem;
+    }
+    .sscreen1{
+        margin-left: -1rem;
+    }
+    .lastmostf{
+        width: rem;
+    }
+    .merge2{
+        display: flex;
+        justify-content: center;
+        justify-items: center;
+        align-items: center;
+        align-content: center;
+        flex-direction: column;
+    }
+    .merge{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        justify-items: center;
+        align-items: center;
+        align-content: center;
+        flex-direction: column;
+    }
+    .leave1{
+        width: 30rem;
+    }
+    .bbbit{
+        display: flex;
+        flex-direction: column;
+    }
+    .bbbit2{
+        display: flex;
+        flex-direction: column;
+    }
+    .bbbit3{
+        display: flex;
+        flex-direction: column;
+    }
+    .flex{
+        gap: 16rem;
+    }
+    .jan1{
+        margin-left: rem;
+    }
+    .dd2{
+        margin-left: rem;
+    }
+    .dd3{
+        margin-left: rem;
+    }
+    .girl{
+        margin-left: rem;
+    }
+    .bit{
+        width: 30rem;
+        margin-left: rem;
+    }
+    .disc{
+        width: 11rem;
+    }
+    .final2{
+        width: 10rem;
+        display: flex;
+        justify-content: flex-start;
+        align-content: flex-start;
+        align-items: flex-start;
+        justify-items: flex-start;
+    }
+    .nav{
+        width: Fixed (375px)px;
 height: Hug (88px)px;
 padding: 24px 16px 24px 16px;
 gap: 0px;
@@ -1328,100 +1436,5 @@ opacity: 0px;
     gap: 16px;
     opacity: 0px;
     
-    }
-    .burger{
-visibility:hidden;
-    }
-    @media (max-width:575px){
-
-    .nav{
-        width: Fixed (375px)px;
-height: Hug (88px)px;
-padding: 24px 16px 24px 16px;
-gap: 0px;
-border: 0px 0px 1px 0px;
-justify: space-between;
-opacity: 0px;
-
-    }
-
-    .searchbtn{
-        visibility: hidden;
-    }
-    .navbar{
-        visibility: hidden;
-
-    }
-    .photodiv{
-        visibility: hidden;
-
-    }
-
-    .burger{
-        visibility: visible;
-        margin-right: rem;
-        margin-left: -1rem;
-    }
-    .exact{
-        width: 15.5rem;
-        height: 60rem;
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-        align-content: center;
-        justify-items: center;
-        height: 60rem;
-    }
-    .ww{
-        margin-left: 3rem;
-    }
-    .exact1{
-        display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    align-content: center;
-    justify-items: center;
-    height: 60rem;
-    margin-top: -14rem;
-    }
-    .exact2{
-        margin-left: -3rem;
-        display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    align-content: center;
-    justify-items: center;
-    }
-    .llogo{
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-        align-content: center;
-        justify-items: center;
-        margin-left: 10rem;
-    }
-    .goa{
-        width: 30rem;
-        margin-top: 5rem;
-    }
-    .socio{
-        
-        display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    align-content: center;
-    justify-items: center;
-    margin-left: 3rem;
-    }
-    .ss{
-        margin-left: 0;
-    }
-    .aa{
-        margin-left: 0;
     }
 }
