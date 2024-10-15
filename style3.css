@@ -391,7 +391,7 @@ margin-bottom: 0;
 
 }
 .burger{
-visibility:hidden;
+    visibility: hidden;
 }
 @media (max-width:575px){
 
@@ -484,5 +484,20 @@ opacity: 0px;
     }
     .aa{
         margin-left: 0;
+    }
+    .shopping1{
+        display: flex;
+        flex-direction: column;
+    }
+    .shopping2{
+        margin-left: -8rem;
+        width: 23rem;
+    }
+    .sh22{
+        width: 10rem;
+    }
+    .shopping3{
+        margin-left: -8rem;
+        width: 23rem;
     }
 }
