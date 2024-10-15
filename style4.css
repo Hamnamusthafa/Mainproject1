@@ -173,6 +173,14 @@ opacity: 0px;
 display: flex;
 
 }
+.second3{
+    width: Hug (160px)px;
+height: Fixed (40px)px;
+gap: 8px;
+opacity: 0px;
+display: flex;
+
+}
 .second2{
     display: flex;
     justify-content: center;
@@ -497,7 +505,6 @@ text-align: left;
 margin-bottom: 0;
 
 }
-
 .burger{
     visibility: hidden;
 }
@@ -592,5 +599,45 @@ opacity: 0px;
     }
     .aa{
         margin-left: 0;
+    }
+    .second{
+       
+    }
+    .second1{
+        margin-left: -8rem;
+    }
+    .second2{
+        margin-left: -22rem;
+    }
+    .second3{
+        margin-left: -22rem;
+    }
+    .middle2{
+    
+    }
+    .tthorn{
+        margin-left: -7rem;
+        width: 30rem;
+    }
+    .tthorn2{
+        margin-left: -7rem;
+        width: 30rem;
+    }
+    .thhh2{
+        margin-left: -33rem;
+    }
+    .thhh{
+        margin-left: -34rem;
+    }
+    .line3{
+        width: 13rem;
+        height: 0.2rem;
+    }
+    .back6{
+        display: flex;
+        justify-content: center;
+        justify-items: center;
+        align-items: center;
+        align-content: center;
     }
 }
